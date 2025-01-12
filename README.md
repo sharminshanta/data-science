@@ -1,8 +1,11 @@
 # data-science
 Data Science E-Learning
 
+### What is data science?
+Data science is a multidisciplinary field that combines statistics, computer science, and domain knowledge methods to extract meaningful insights and wisdom from data. It involves collecting, analyzing, and interpreting large amounts of structured and unstructured data to make informed decisions, predict future trends, and solve complex problems.
+
 ### What is data science used for?
-Data science is used to study data in following ways:
+Data science is used to study data in the following ways:
 1. Descriptive Analysis
 2. Diagnostic Analysis
 3. Predictive Analysis
