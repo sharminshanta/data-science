@@ -45,3 +45,14 @@ This library is used to visualize data.
 This library has linear algebra modules
 
 # What is the data science process?
+The data science process solves business problems. A data scientist works with business stakeholders to understand what business needs. Once the problem has been defined, the data scientist may solve it using the OSEMN data science process:
+
+  O – Obtain Data
+  
+  S – Scrub Data
+  
+  E – Explore Data
+  
+  M – Model Data 
+  
+  N – Interpret Results
