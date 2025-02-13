@@ -62,6 +62,6 @@ The top techniques used by data scientists are:
 
 1. Classification
 
-   Regression
+2. Regression
 
 3. Clustering   
