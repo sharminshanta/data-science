@@ -56,3 +56,12 @@ The data science process solves business problems. A data scientist works with b
   M – Model Data 
   
   N – Interpret Results
+
+# What are the data science techniques?
+The top techniques used by data scientists are:
+
+1. Classification
+
+2. Regression
+
+3. Clustering   
