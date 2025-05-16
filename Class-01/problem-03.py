@@ -1,4 +1,5 @@
-# Q3:- Take 2 numbers as input from the user.Write a program to swap the numbers without using any special python syntax.
+# Issue Ref. https://github.com/sharminshanta/data-science/issues/3
+# Q3:- Take 2 numbers as input from the user. Write a program to swap the numbers without using any special python syntax.
 
 # Before swapping
 num1 = int(input("Enter the first number: "))
